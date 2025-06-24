@@ -20,20 +20,8 @@ This project builds and trains a U-Net model to automatically detect and segment
 * **Optimizer**: Adam
 * **Evaluation Metric**: Accuracy
 
----
 
-### 📂 Project Structure
 
-```
-├── Lung_Data/
-│   ├── grey/       # Original grayscale CT images (.bmp)
-│   └── mask/       # Original lung masks (.bmp)
-├── Lung_Data_PNG/
-│   ├── grey/       # Converted CT images (.png)
-│   └── mask/       # Converted masks (.png)
-├── Lung Segmentation Unet.ipynb
-└── README.md
-```
 
 ---
 
